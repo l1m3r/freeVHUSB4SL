@@ -1,3 +1,0 @@
-name=VHUSB
-icon=icon.png
-run=vhusb.sh
